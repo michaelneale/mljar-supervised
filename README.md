@@ -1,5 +1,7 @@
 # mljar-supervised
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/08bad296-6db7-44b2-a788-856fb408f5ff.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/mljar-supervised?orgId=451115019187)  
+
 [![Build Status](https://travis-ci.org/mljar/mljar-supervised.svg?branch=master)](https://travis-ci.org/mljar/mljar-supervised)
 [![PyPI version](https://badge.fury.io/py/mljar-supervised.svg)](https://badge.fury.io/py/mljar-supervised)
 [![Coverage Status](https://coveralls.io/repos/github/mljar/mljar-supervised/badge.svg?branch=master)](https://coveralls.io/github/mljar/mljar-supervised?branch=master)
